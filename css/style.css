@@ -1,0 +1,19 @@
+body {
+    background-color: gold;
+    text-align: center;
+    font-family: Garamond, serif;
+    font-size: 24px;
+    color: #122620;
+    padding: 1em;
+}
+
+.kuna-img {
+    display: block;
+    width: 33%;
+    height: auto;
+    margin: auto;
+}
+
+.source {
+    font-size: 18px;
+}
