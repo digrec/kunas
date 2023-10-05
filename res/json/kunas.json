@@ -3,114 +3,152 @@
     "id": "1",
     "title": "25 kuna - Croatian Danube Region",
     "releaseDate": "1997-05-28",
-    "itemsIssued": 300000
+    "itemsIssued": 300000,
+    "imageObverse": "25kn-hrvatsko-podunavlje-1997-l.png",
+    "imageReverse": "25kn-n.png"
   },
   {
     "id": "2",
     "title": "25 kuna - The First Croatian Esperanto Congress",
     "releaseDate": "1997-06-24",
-    "itemsIssued": 300000
+    "itemsIssued": 300000,
+    "imageObverse": "25kn-prvi-kongres-hr-esperantista-l.png",
+    "imageReverse": "25kn-n.png"
   },
   {
     "id": "3",
     "title": "25 kuna - Admission of the Republic of Croatia to the UNO",
     "releaseDate": "1997-10-27",
-    "itemsIssued": 300000
+    "itemsIssued": 300000,
+    "imageObverse": "25kn-primanje-rh-u-oun-1997-l.png",
+    "imageReverse": "25kn-n.png"
   },
   {
     "id": "4",
     "title": "25 kuna - EXPO - Lisbon, 1998",
     "releaseDate": "1998-06-26",
-    "itemsIssued": 300000
+    "itemsIssued": 300000,
+    "imageObverse": "25kn-expo-lisabon-1998-l.png",
+    "imageReverse": "25kn-n.png"
   },
   {
     "id": "5",
     "title": "25 kuna - EURO",
     "releaseDate": "1999-12-27",
-    "itemsIssued": 300000
+    "itemsIssued": 300000,
+    "imageObverse": "25kn-euro-1999-l.png",
+    "imageReverse": "25kn-n.png"
   },
   {
     "id": "6",
     "title": "25 kuna - 2000",
     "releaseDate": "2000-11-07",
-    "itemsIssued": 300000
+    "itemsIssued": 300000,
+    "imageObverse": "25kn-2000-l.png",
+    "imageReverse": "25kn-n.png"
   },
   {
     "id": "7",
     "title": "25 kuna - 10th Anniversary of the International Recognition of the Republic of Croatia",
     "releaseDate": "2005-08-04",
-    "itemsIssued": 200000
+    "itemsIssued": 200000,
+    "imageObverse": "25kn-10-oblj-medunarodnog-priznanja-rh-l.png",
+    "imageReverse": "25kn-n.png"
   },
   {
     "id": "8",
     "title": "25 kuna - Republic of Croatia - EU Membership Candidate, 18 June 2004",
     "releaseDate": "2005-08-04",
-    "itemsIssued": 30000
+    "itemsIssued": 30000,
+    "imageObverse": "25kn-rh-kandidat-za-eu-l.png",
+    "imageReverse": "25kn-n.png"
   },
   {
     "id": "9",
     "title": "25 kuna - Annual Meeting of the European Bank for Reconstruction and Development, Zagreb 2010",
     "releaseDate": "2010-05-12",
-    "itemsIssued": 20000
+    "itemsIssued": 20000,
+    "imageObverse": "25kn-godisnja-skupstina-ebrd-2010-l.png",
+    "imageReverse": "25kn-n.png"
   },
   {
     "id": "10",
     "title": "25 kuna - Treaty of Accession of the Republic of Croatia to the European Union, 9 December 2011",
     "releaseDate": "2012-12-03",
-    "itemsIssued": 300000
+    "itemsIssued": 300000,
+    "imageObverse": "25kn-ugovor-o-pristupu-rh-eu-l.png",
+    "imageReverse": "25kn-n.png"
   },
   {
     "id": "11",
     "title": "25 kuna - Republic of Croatia - a Member of the European Union - 1 July 2013",
     "releaseDate": "2013-07-01",
-    "itemsIssued": 20000
+    "itemsIssued": 20000,
+    "imageObverse": "25kn-rh-clanica-eu-l.png",
+    "imageReverse": "25kn-n.png"
   },
   {
     "id": "12",
     "title": "25 kuna - 25th Anniversary of Independence of the Republic of Croatia, 8 October 1991 – 8 October 2016",
     "releaseDate": "2016-10-07",
-    "itemsIssued": 50000
+    "itemsIssued": 50000,
+    "imageObverse": "25kn-25-obljetnica-neovisnosti-rh-l.png",
+    "imageReverse": "25kn-25-obljetnica-neovisnosti-rh-n.png"
   },
   {
     "id": "13",
     "title": "25 kuna - 25th Anniversary of the Admission of the Republic of Croatia to Membership in the United Nations",
     "releaseDate": "2017-05-22",
-    "itemsIssued": 20000
+    "itemsIssued": 20000,
+    "imageObverse": "25kn-25-g-od-primanja-rh-u-un-l.png",
+    "imageReverse": "25kn-25-g-od-primanja-rh-u-un-n.png"
   },
   {
     "id": "14",
     "title": "25 kuna - 25th Anniversary of the Introduction of the Kuna as the Monetary Unit of the Republic of Croatia, 30 May 1994 – 30 May 2019",
     "releaseDate": "2019-05-30",
-    "itemsIssued": 30000
+    "itemsIssued": 30000,
+    "imageObverse": "25kn-25ta-obljetnica-kune-l.png",
+    "imageReverse": "25kn-25ta-obljetnica-kune-n.png"
   },
   {
     "id": "15",
     "title": "25 kuna - 350th Anniversary of the Founding of the University of Zagreb, 1669 – 2019",
     "releaseDate": "2019-11-04",
-    "itemsIssued": 20000
+    "itemsIssued": 20000,
+    "imageObverse": "25kn-350-oblj-sz-l.jpg",
+    "imageReverse": "25kn-350-oblj-sz-n.jpg"
   },
   {
     "id": "16",
     "title": "25 kuna - Croatian Presidency of the Council of the European Union 2020",
     "releaseDate": "2020-01-15",
-    "itemsIssued": 30000
+    "itemsIssued": 30000,
+    "imageObverse": "25kn-hr-predsjedanje-eu-l.jpg",
+    "imageReverse": "25kn-hr-predsjedanje-eu-n.jpg"
   },
   {
     "id": "17",
     "title": "25 kuna - 75th Anniversary of the Founding of the Croatian Association of Technical Culture, 1946 – 2021",
     "releaseDate": "2021-06-23",
-    "itemsIssued": 50000
+    "itemsIssued": 50000,
+    "imageObverse": "25kn-tehnicka-kultura-l.jpg",
+    "imageReverse": "25kn-tehnicka-kultura-n.jpg"
   },
   {
     "id": "18",
     "title": "25 kuna - World Children's Day, 20 November 2021",
     "releaseDate": "2021-11-19",
-    "itemsIssued": 50000
+    "itemsIssued": 50000,
+    "imageObverse": "25kn-medjunarodni-dan-djeteta-l.jpg",
+    "imageReverse": "25kn-medjunarodni-dan-djeteta-n.jpg"
   },
   {
     "id": "19",
     "title": "25 kuna - Pelješac Bridge, 2022",
     "releaseDate": "2022-07-26",
-    "itemsIssued": 30000
+    "itemsIssued": 30000,
+    "imageObverse": "25kn-peljski-most-l.jpg",
+    "imageReverse": "25kn-peljski-most-n.jpg"
   }
 ]
